@@ -104,5 +104,7 @@ grade
 			console.log('findSome :'+ err)
 			return
 		}
-	console.log('Answer :'+doc)
+	console.log('______________________Answer_________________________')
+	console.log(doc)
+	console.log('______________________Answer_________________________')
 })
