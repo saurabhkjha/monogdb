@@ -1,0 +1,10 @@
+{
+  "name": "hw",
+  "version": "0.0.1",
+  "description": "Homework",
+  "main": "app.js",
+  "dependencies": {
+     "mongoose": "*"
+  },
+  "author": "Saurabh"
+}
