@@ -2,7 +2,7 @@
 //saurabh.simpy@gmail.com
 
 //import json
-//mongoimport --db piyus --collection grade --file E:\work\piyus\q1.json
+//mongoimport --db piyus --collection grade --file q1.json
 
 var mongoose = require('mongoose')
 
